@@ -12,7 +12,7 @@
 const Mario = {
   code: [Python, Matlab, Java, C, C++ ],
   tools: [Scrapping Web, Data Analysis, Data visualisation],
-  ID: [VSCode],
+  ID: [VSCode]
 }
 ```
 
