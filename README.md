@@ -4,7 +4,7 @@
 
 <p><em>Student of Mathematical Engineering in Data Science <a href="https://www.upf.edu/">Pompeu Fabra University</a>
 </br>Political Scientist<a href="https://www.ub.edu/web/portal/ca/">University of Barcelona</a>
-</br>Basketball coach<a</a>
+</br>Basketball coach</a>
 </em></p>
 
 
