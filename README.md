@@ -10,8 +10,8 @@
 
 ```javascript
 const Mario = {
-  code: [Python, Matlab, Java, C, C++ ],
-  tools: [Scrapping Web, Data Analysis, Data Visualisation],
+  code: [Python, R, SQL, Matlab, Java, C, C++ ],
+  tools: [Scrapping Web, Machine Learning, Data Visualisation],
   ID: [VSCode]
 }
 ```
