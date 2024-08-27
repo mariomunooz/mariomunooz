@@ -1,6 +1,6 @@
 [![Mario Muñoz GitHub Banner](./assets/GitHubHeader.png)]()
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/mario-muñoz-serrano)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://es.linkedin.com/in/mario-mu%C3%B1oz-serrano)
 
 💡 BSc in Data Science</br>
 🧠 Eager to deepen knowledge in deep learning and AI</br>
